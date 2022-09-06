@@ -10,8 +10,9 @@ To run this program,
 2. From the root directory of the project, run `npm i`
 3. Add a `.env` file to the root directory of the project with the following parameters:
 
-`API_URL = "https://polygon-mumbai.g.alchemy.com/v2/your-api-key" \n
-PRIVATE_KEY = "your-metamask-private-key"`
+`API_URL = "https://polygon-mumbai.g.alchemy.com/v2/your-api-key"`
+
+`PRIVATE_KEY = "your-metamask-private-key"`
 
 4. Run `npm start` (this will open the dapp on your localhost).
 5. On the dapp, click on `Connect Wallet` to link to your Metamask wallet.
