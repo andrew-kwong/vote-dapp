@@ -8,9 +8,9 @@ To run this program,
 
 1. Download the files onto your drive
 2. From the root directory of the project, run `npm i`
-3. Add a `.env` file to the root directory of the project with the follow parameters:
+3. Add a `.env` file to the root directory of the project with the following parameters:
 
-`API_URL = "https://polygon-mumbai.g.alchemy.com/v2/your-api-key"
+`API_URL = "https://polygon-mumbai.g.alchemy.com/v2/your-api-key" \n
 PRIVATE_KEY = "your-metamask-private-key"`
 
 4. Run `npm start` (this will open the dapp on your localhost).
