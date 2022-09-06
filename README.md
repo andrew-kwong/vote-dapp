@@ -7,10 +7,13 @@ To run this program,
 
 1. Download the files onto your drive
 2. From the root directory, run `npm i`
-3. Run `npm start` (this will open the dapp on your localhost)
-4. On the dapp, click on `Connect Wallet` to link to your Metamask wallet
-5. Click on `Start Vote` to give the smart contract authorization to allow voting
-6. On the `Select Candidate dropdown`, click on any candidate you wish to vote for
-7. Click `Submit Vote` to confirm your candidate choice.
+3. Add the .env file with the follow parameters that will be emailed to you seperately. 
+4. Run `npm start` (this will open the dapp on your localhost).
+5. On the dapp, click on `Connect Wallet` to link to your Metamask wallet.
+6. Click on `Start Vote` to give the smart contract authorization to allow voting.
+7. On the `Select Candidate dropdown`, click on any candidate you wish to vote for.
+8. Click `Submit Vote` to confirm your candidate choice.
+
+
 
 Enjoy!
